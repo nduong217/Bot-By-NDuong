@@ -70,7 +70,7 @@ module.exports. run = function({ api, event, args, getText }) {
     const returnArray = arrayInfo.slice(startSlice, startSlice + numberOfOnePage);
 
     for (let item of returnArray) msg += `⟬${++i}⟭• ${item}\n\n`;
-    const text = `◤______________________◥\n⊶ Trang (${page}/${Math.ceil(arrayInfo.length/numberOfOnePage)})\n⊶ Gõ: "${prefix}giupdo <tên lệnh>" để biết thêm chi tiết về lệnh đó\n⊶ Hiện tại có ${arrayInfo.length} lệnh có thể sử dụng\n⊶ Dùng ${prefix}giupdo <Số trang>`;
+    const text = `◤______________________◥\n⊶ Trang (${page}/${Math.ceil(arrayInfo.length/numberOfOnePage)})\n⊶ Gõ: "${prefix}help <tên lệnh>" để biết thêm chi tiết về lệnh đó\n⊶ Hiện tại có ${arrayInfo.length} lệnh có thể sử dụng\n⊶ Dùng ${prefix}help <Số trang>`;
     return api.sendMessage(msg + text, threadID, async (error, info) => {
       if (autoUnsend) {
         await new Promise(resolve => setTimeout(resolve, delayUnsend * 60000));
