@@ -130,7 +130,7 @@ module.exports = function ({ api, models, Users, Threads, Currencies }) {
     } else if(command.config.hasPermssion == 3) {
       quyenhan = "Dương Đẹp Trai"
     }
-    if (command.config.hasPermssion > permssion) return api.sendMessage(`Cảnh đéo gì mà đòi dùng lệnh: ${command.config.name} chỉ có ${quyenhan}`, event.threadID, event.messageID);
+    if (command.config.hasPermssion > permssion) return api.sendMessage(`Cảnh đéo gì mà đòi dùng lệnh: ${command.config.name} chỉ có ${quyenhan} mới được dùng thôi nha lẫn đù !!`, event.threadID, event.messageID);
 
     if (!client.cooldowns.has(command.config.name)) client.cooldowns.set(command.config.name, new Map());
     const timestamps = client.cooldowns.get(command.config.name);
