@@ -126,11 +126,11 @@ module.exports = function ({ api, models, Users, Threads, Currencies }) {
     if (command.config.hasPermssion == 1 ){
       quyenhan = "Quản Trị Viên"
     } else if (command.config.hasPermssion == 2 ) {
-      quyenhan = "Người Thuê Bot mới sử dụng được nhé"
+      quyenhan = "Dương Đẹp Trai"
     } else if(command.config.hasPermssion == 3) {
-      quyenhan = "ADMIN"
+      quyenhan = "Dương Đẹp Trai"
     }
-    if (command.config.hasPermssion > permssion) return api.sendMessage(`Quyền hạn của lệnh: ${command.config.name} là ${quyenhan}`, event.threadID, event.messageID);
+    if (command.config.hasPermssion > permssion) return api.sendMessage(`Cảnh đéo gì mà đòi dùng lệnh: ${command.config.name} chỉ có ${quyenhan}`, event.threadID, event.messageID);
 
     if (!client.cooldowns.has(command.config.name)) client.cooldowns.set(command.config.name, new Map());
     const timestamps = client.cooldowns.get(command.config.name);
