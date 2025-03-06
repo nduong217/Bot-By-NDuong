@@ -1,7 +1,4 @@
-const os = require('os');
-const moment = require('moment-timezone');
-const fs = require('fs').promises;
-const osu = require('os-utils');
+
 
 module.exports.config = {
   name: "upt",
