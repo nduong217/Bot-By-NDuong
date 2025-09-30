@@ -4,7 +4,7 @@ module.exports.config = {
 	hasPermssion: 0,
 	credits: "CThanh",
 	description: "tạo autorep cho 1 tin nhắn",
-	commandCategory: "Admin",
+	commandCategory: "Quản Trị Viên",
 	usages: "[autorep] => [text need autorep]",
 	cooldowns: 5,
 	dependencies: {
