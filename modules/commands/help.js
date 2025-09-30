@@ -15,8 +15,8 @@ module.exports.config = {
 
 module.exports.languages = {
   "vi": {
-    "moduleInfo": "╭───╮\n    %1\n╰───╯ \n📜Mô tả: %2\n\n» 🧞Credit: %7\n» 📄Hướng dẫn cách dùng: %3\n» 🌟Thuộc nhóm: %4\n» ⏱Thời gian chờ: %5 giây(s)\n» 👥Quyền hạn: %6\n✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏\n💥💢💥 Điều Hành Bởi JRT 💥💢💥",
-    "helpList": '≻─────── •👇🏻• ───────≺\n🏰🏰🏰 𝐻𝑖𝑒̣̂𝑛 𝑡𝑎̣𝑖 đ𝑎𝑛𝑔 𝑐𝑜́ %1 𝑙𝑒̣̂𝑛ℎ 𝑐𝑜́ 𝑡ℎ𝑒̂̉ 𝑠𝑢̛̉ 𝑑𝑢̣𝑛𝑔 𝑡𝑟𝑒̂𝑛 𝑏𝑜𝑡 𝑛𝑎̀𝑦\n🌟𝑆𝑢̛̉ 𝑑𝑢̣𝑛𝑔: "%2giupdo + tên lệnh" đ𝑒̂̉ 𝑏𝑖𝑒̂́𝑡 𝑐𝑎́𝑐ℎ 𝑠𝑢̛̉ 𝑑𝑢̣𝑛𝑔 𝑙𝑒̣̂𝑛ℎ\n🤖𝐵𝑜𝑡 đ𝑢̛𝑜̛̣𝑐 đ𝑖𝑒̂̀𝑢 ℎ𝑎̀𝑛ℎ 𝑏𝑜̛̉𝑖 𝑁𝑔𝑢𝑦𝑒̂̃𝑛 𝐻𝑎̉𝑖 Đ𝑎̆𝑛𝑔.\n[💟] Đ𝑎̂𝑦 𝐿𝑎̀ 𝑇𝑜𝑎̀𝑛 𝐵𝑜̣̂ 𝐿𝑒̣̂𝑛ℎ 𝐶𝑜́ 𝑇𝑟𝑜𝑛𝑔 𝐹𝑖𝑙𝑒 𝐵𝑜𝑡 UwU. [❗]\n🔰𝑉𝑢𝑖 𝐿𝑜̀𝑛𝑔 𝐾ℎ𝑜̂𝑛𝑔 𝑆𝑝𝑎𝑚 𝐻𝑜𝑎̣̆𝑐 𝐶ℎ𝑢̛̉𝑖 𝐵𝑜𝑡 𝐵𝑎̂́𝑡 𝐾𝑖̀ 𝐷𝑢̛𝑜̛́𝑖 𝐻𝑖̀𝑛ℎ 𝑇ℎ𝑢̛́𝑐 𝑁𝑎̀𝑜 𝑁ℎ𝑒́ [❗]\n📣ℍ𝕖𝕝𝕡 𝕤𝕖̃ 𝕥𝕦̛̣ đ𝕠̣̂𝕟𝕘 𝕘𝕠̛̃ 𝕤𝕒𝕦 𝟞𝟘𝕤 🏯🏯🏯',
+    "moduleInfo": "╭───╮\n    %1\n╰───╯ \n📜Mô tả: %2\n\n» 🧞Credit: %7\n» 📄Hướng dẫn cách dùng: %3\n» 🌟Thuộc nhóm: %4\n» ⏱Thời gian chờ: %5 giây(s)\n» 👥Quyền hạn: %6\n✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏\n💥💢💥 Điều Hành Bởi N𝑔u𝑦e𝑛 𝐷u𝑜n𝑔 💥💢💥",
+    "helpList": '≻─────── •👇🏻• ───────≺\n🏰🏰🏰 𝐻𝑖𝑒̣̂𝑛 𝑡𝑎̣𝑖 đ𝑎𝑛𝑔 𝑐𝑜́ %1 𝑙𝑒̣̂𝑛ℎ 𝑐𝑜́ 𝑡ℎ𝑒̂̉ 𝑠𝑢̛̉ 𝑑𝑢̣𝑛𝑔 𝑡𝑟𝑒̂𝑛 𝑏𝑜𝑡 𝑛𝑎̀𝑦\n🌟𝑆𝑢̛̉ 𝑑𝑢̣𝑛𝑔: "%2giupdo + tên lệnh" đ𝑒̂̉ 𝑏𝑖𝑒̂́𝑡 𝑐𝑎́𝑐ℎ 𝑠𝑢̛̉ 𝑑𝑢̣𝑛𝑔 𝑙𝑒̣̂𝑛ℎ\n🤖𝐵𝑜𝑡 đ𝑢̛𝑜̛̣𝑐 đ𝑖𝑒̂̀𝑢 ℎ𝑎̀𝑛ℎ 𝑏𝑜̛̉𝑖 N𝑔u𝑦e𝑛 𝐷u𝑜n𝑔.\n[💟] Đ𝑎̂𝑦 𝐿𝑎̀ 𝑇𝑜𝑎̀𝑛 𝐵𝑜̣̂ 𝐿𝑒̣̂𝑛ℎ 𝐶𝑜́ 𝑇𝑟𝑜𝑛𝑔 𝐹𝑖𝑙𝑒 𝐵𝑜𝑡 UwU. [❗]\n🔰𝑉𝑢𝑖 𝐿𝑜̀𝑛𝑔 𝐾ℎ𝑜̂𝑛𝑔 𝑆𝑝𝑎𝑚 𝐻𝑜𝑎̣̆𝑐 𝐶ℎ𝑢̛̉𝑖 𝐵𝑜𝑡 𝐵𝑎̂́𝑡 𝐾𝑖̀ 𝐷𝑢̛𝑜̛́𝑖 𝐻𝑖̀𝑛ℎ 𝑇ℎ𝑢̛́𝑐 𝑁𝑎̀𝑜 𝑁ℎ𝑒́ [❗]\n📣ℍ𝕖𝕝𝕡 𝕤𝕖̃ 𝕥𝕦̛̣ đ𝕠̣̂𝕟𝕘 𝕘𝕠̛̃ 𝕤𝕒𝕦 𝟞𝟘𝕤 🏯🏯🏯',
     "user": "Người dùng",
         "adminGroup": "Quản trị viên nhóm",
         "adminBot": "Quản trị viên bot"
@@ -56,7 +56,7 @@ module.exports. run = function({ api, event, args, getText }) {
     const page = parseInt(args[0]) || 1;
     const numberOfOnePage = 10;
     let i = 0;
-    let msg = "≻──── •𝐅𝐛: 𝐍𝐠𝐮𝐲𝐞̂̃𝐧 𝐇𝐨𝐚̀𝐧𝐠 𝐃𝐮̛𝐨̛𝐧𝐠• ────≺\n";
+    let msg = "≻──── •𝐓𝐰𝐞𝐧𝐭𝐲 𝐎𝐧𝐞 • ────≺\n";
 
     for (var [name, value] of (commands)) {
       name += `\n⪼ Thuộc nhóm: ${value.config.commandCategory}\n⪼ Mô tả: ${value.config.description}\n⪼ Thời gian chờ: ${value.config.cooldowns}s`;
